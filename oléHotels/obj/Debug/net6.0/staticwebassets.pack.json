@@ -1,0 +1,1093 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-circle-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-circle-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-circle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-octagon-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-octagon-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-octagon.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-octagon.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-square-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-square-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-square.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-square.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-triangle-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-triangle-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\alert-triangle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\archive-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\archive-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\archive.svg",
+      "PackagePath": "staticwebassets\\icons\\archive.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-clockwise.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-clockwise.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-counterclockwise.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-counterclockwise.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-down-left.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-down-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-down-right.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-down-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-left-right.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-left-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-repeat.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-repeat.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-up-down.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-up-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-up-left.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-up-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-up-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\arrow-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrows-contract.svg",
+      "PackagePath": "staticwebassets\\icons\\arrows-contract.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrows-expand.svg",
+      "PackagePath": "staticwebassets\\icons\\arrows-expand.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\arrows-fullscreen.svg",
+      "PackagePath": "staticwebassets\\icons\\arrows-fullscreen.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\at.svg",
+      "PackagePath": "staticwebassets\\icons\\at.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bar-chart-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\bar-chart-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\icons\\bar-chart.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\battery-full.svg",
+      "PackagePath": "staticwebassets\\icons\\battery-full.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\battery.svg",
+      "PackagePath": "staticwebassets\\icons\\battery.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bell-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\bell-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bell.svg",
+      "PackagePath": "staticwebassets\\icons\\bell.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\blockquote-left.svg",
+      "PackagePath": "staticwebassets\\icons\\blockquote-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\blockquote-right.svg",
+      "PackagePath": "staticwebassets\\icons\\blockquote-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bookmark-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\bookmark-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icons\\bookmark.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bootstrap-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\bootstrap-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bootstrap-reboot.svg",
+      "PackagePath": "staticwebassets\\icons\\bootstrap-reboot.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\icons\\bootstrap.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-bottom-left.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-bottom-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-bottom-right.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-bottom-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-up-left.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-up-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-up-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\box-arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\box-arrow-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\brightness-fill-high.svg",
+      "PackagePath": "staticwebassets\\icons\\brightness-fill-high.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\brightness-fill-low.svg",
+      "PackagePath": "staticwebassets\\icons\\brightness-fill-low.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\brightness-high.svg",
+      "PackagePath": "staticwebassets\\icons\\brightness-high.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\brightness-low.svg",
+      "PackagePath": "staticwebassets\\icons\\brightness-low.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\bullseye.svg",
+      "PackagePath": "staticwebassets\\icons\\bullseye.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\calendar.svg",
+      "PackagePath": "staticwebassets\\icons\\calendar.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\camera-video-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\camera-video-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\camera-video.svg",
+      "PackagePath": "staticwebassets\\icons\\camera-video.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\camera.svg",
+      "PackagePath": "staticwebassets\\icons\\camera.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chat-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\chat-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chat.svg",
+      "PackagePath": "staticwebassets\\icons\\chat.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\check-box.svg",
+      "PackagePath": "staticwebassets\\icons\\check-box.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\check-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\check-circle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\check.svg",
+      "PackagePath": "staticwebassets\\icons\\check.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-compact-down.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-compact-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-compact-left.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-compact-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-compact-right.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-compact-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-compact-up.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-compact-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\icons\\chevron-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\circle-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\circle-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\circle-slash.svg",
+      "PackagePath": "staticwebassets\\icons\\circle-slash.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\circle.svg",
+      "PackagePath": "staticwebassets\\icons\\circle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\clock-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\clock-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\clock.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\cloud-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\cloud-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\cloud.svg",
+      "PackagePath": "staticwebassets\\icons\\cloud.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\code-slash.svg",
+      "PackagePath": "staticwebassets\\icons\\code-slash.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\code.svg",
+      "PackagePath": "staticwebassets\\icons\\code.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\command.svg",
+      "PackagePath": "staticwebassets\\icons\\command.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\compass.svg",
+      "PackagePath": "staticwebassets\\icons\\compass.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icons\\credit-card.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\cursor-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\cursor-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\cursor.svg",
+      "PackagePath": "staticwebassets\\icons\\cursor.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\dash.svg",
+      "PackagePath": "staticwebassets\\icons\\dash.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\display.svg",
+      "PackagePath": "staticwebassets\\icons\\display.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\document-code.svg",
+      "PackagePath": "staticwebassets\\icons\\document-code.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\document-diff.svg",
+      "PackagePath": "staticwebassets\\icons\\document-diff.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\document-richtext.svg",
+      "PackagePath": "staticwebassets\\icons\\document-richtext.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\document-text.svg",
+      "PackagePath": "staticwebassets\\icons\\document-text.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\document.svg",
+      "PackagePath": "staticwebassets\\icons\\document.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\documents-alt.svg",
+      "PackagePath": "staticwebassets\\icons\\documents-alt.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\documents.svg",
+      "PackagePath": "staticwebassets\\icons\\documents.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\dot.svg",
+      "PackagePath": "staticwebassets\\icons\\dot.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\envelope.svg",
+      "PackagePath": "staticwebassets\\icons\\envelope.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\filter.svg",
+      "PackagePath": "staticwebassets\\icons\\filter.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\flag-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\flag.svg",
+      "PackagePath": "staticwebassets\\icons\\flag.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\folder-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\folder-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\folder-symlink-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\folder-symlink-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\folder-symlink.svg",
+      "PackagePath": "staticwebassets\\icons\\folder-symlink.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\folder.svg",
+      "PackagePath": "staticwebassets\\icons\\folder.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\forward-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\forward-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\forward.svg",
+      "PackagePath": "staticwebassets\\icons\\forward.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\gear-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\gear-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\gear.svg",
+      "PackagePath": "staticwebassets\\icons\\gear.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\graph-down.svg",
+      "PackagePath": "staticwebassets\\icons\\graph-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\graph-up.svg",
+      "PackagePath": "staticwebassets\\icons\\graph-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\grid-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\grid-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\grid.svg",
+      "PackagePath": "staticwebassets\\icons\\grid.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\heart-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\heart-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\heart.svg",
+      "PackagePath": "staticwebassets\\icons\\heart.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\house-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\house-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\house.svg",
+      "PackagePath": "staticwebassets\\icons\\house.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\image-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\image-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\image.svg",
+      "PackagePath": "staticwebassets\\icons\\image.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\inbox-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\inbox-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\inbox.svg",
+      "PackagePath": "staticwebassets\\icons\\inbox.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\info-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\info-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\info-square-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\info-square-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\info-square.svg",
+      "PackagePath": "staticwebassets\\icons\\info-square.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\info.svg",
+      "PackagePath": "staticwebassets\\icons\\info.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\justify-left.svg",
+      "PackagePath": "staticwebassets\\icons\\justify-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\justify-right.svg",
+      "PackagePath": "staticwebassets\\icons\\justify-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\justify.svg",
+      "PackagePath": "staticwebassets\\icons\\justify.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\kanban-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\kanban-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\kanban.svg",
+      "PackagePath": "staticwebassets\\icons\\kanban.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\laptop.svg",
+      "PackagePath": "staticwebassets\\icons\\laptop.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\list-check.svg",
+      "PackagePath": "staticwebassets\\icons\\list-check.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\list-ol.svg",
+      "PackagePath": "staticwebassets\\icons\\list-ol.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\list-task.svg",
+      "PackagePath": "staticwebassets\\icons\\list-task.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\list-ul.svg",
+      "PackagePath": "staticwebassets\\icons\\list-ul.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\list.svg",
+      "PackagePath": "staticwebassets\\icons\\list.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\lock-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\lock-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\lock.svg",
+      "PackagePath": "staticwebassets\\icons\\lock.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\music-player-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\music-player-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\music-player.svg",
+      "PackagePath": "staticwebassets\\icons\\music-player.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\option.svg",
+      "PackagePath": "staticwebassets\\icons\\option.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\pause-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\pause-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\pause.svg",
+      "PackagePath": "staticwebassets\\icons\\pause.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\people-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\people-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\people.svg",
+      "PackagePath": "staticwebassets\\icons\\people.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\person-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\person-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\person.svg",
+      "PackagePath": "staticwebassets\\icons\\person.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\phone-landscape.svg",
+      "PackagePath": "staticwebassets\\icons\\phone-landscape.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\phone.svg",
+      "PackagePath": "staticwebassets\\icons\\phone.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\play-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\play-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\play.svg",
+      "PackagePath": "staticwebassets\\icons\\play.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\plus.svg",
+      "PackagePath": "staticwebassets\\icons\\plus.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\power.svg",
+      "PackagePath": "staticwebassets\\icons\\power.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\question-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\question-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\question-square-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\question-square-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\question-square.svg",
+      "PackagePath": "staticwebassets\\icons\\question-square.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\question.svg",
+      "PackagePath": "staticwebassets\\icons\\question.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\reply-all-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\reply-all-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\reply-all.svg",
+      "PackagePath": "staticwebassets\\icons\\reply-all.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\reply-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\reply-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\reply.svg",
+      "PackagePath": "staticwebassets\\icons\\reply.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\search.svg",
+      "PackagePath": "staticwebassets\\icons\\search.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-backward-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-backward-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-backward.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-backward.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-end-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-end-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-end.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-end.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-forward-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-forward-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-forward.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-forward.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-start-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-start-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\skip-start.svg",
+      "PackagePath": "staticwebassets\\icons\\skip-start.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\square-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\square-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\square.svg",
+      "PackagePath": "staticwebassets\\icons\\square.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\star-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\star-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\star-half.svg",
+      "PackagePath": "staticwebassets\\icons\\star-half.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\star.svg",
+      "PackagePath": "staticwebassets\\icons\\star.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\stop-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\stop-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\stop.svg",
+      "PackagePath": "staticwebassets\\icons\\stop.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tablet-landscape.svg",
+      "PackagePath": "staticwebassets\\icons\\tablet-landscape.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tablet.svg",
+      "PackagePath": "staticwebassets\\icons\\tablet.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tag-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\tag-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tag.svg",
+      "PackagePath": "staticwebassets\\icons\\tag.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\terminal-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\terminal-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\terminal.svg",
+      "PackagePath": "staticwebassets\\icons\\terminal.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\text-center.svg",
+      "PackagePath": "staticwebassets\\icons\\text-center.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\text-indent-left.svg",
+      "PackagePath": "staticwebassets\\icons\\text-indent-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\text-indent-right.svg",
+      "PackagePath": "staticwebassets\\icons\\text-indent-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\text-left.svg",
+      "PackagePath": "staticwebassets\\icons\\text-left.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\text-right.svg",
+      "PackagePath": "staticwebassets\\icons\\text-right.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\three-dots-vertical.svg",
+      "PackagePath": "staticwebassets\\icons\\three-dots-vertical.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\three-dots.svg",
+      "PackagePath": "staticwebassets\\icons\\three-dots.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\toggle-off.svg",
+      "PackagePath": "staticwebassets\\icons\\toggle-off.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\toggle-on.svg",
+      "PackagePath": "staticwebassets\\icons\\toggle-on.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\trash-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\trash-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\trash.svg",
+      "PackagePath": "staticwebassets\\icons\\trash.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\triangle-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\triangle-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\triangle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tv-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\tv-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\tv.svg",
+      "PackagePath": "staticwebassets\\icons\\tv.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\type-bold.svg",
+      "PackagePath": "staticwebassets\\icons\\type-bold.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\type-italic.svg",
+      "PackagePath": "staticwebassets\\icons\\type-italic.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\type-underline.svg",
+      "PackagePath": "staticwebassets\\icons\\type-underline.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\type.svg",
+      "PackagePath": "staticwebassets\\icons\\type.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\unlock-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\unlock-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\unlock.svg",
+      "PackagePath": "staticwebassets\\icons\\unlock.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\volume-down.svg",
+      "PackagePath": "staticwebassets\\icons\\volume-down.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\volume-mute.svg",
+      "PackagePath": "staticwebassets\\icons\\volume-mute.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\volume-up.svg",
+      "PackagePath": "staticwebassets\\icons\\volume-up.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\watch.svg",
+      "PackagePath": "staticwebassets\\icons\\watch.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\wifi.svg",
+      "PackagePath": "staticwebassets\\icons\\wifi.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-circle-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\x-circle-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\x-circle.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-octagon-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\x-octagon-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-octagon.svg",
+      "PackagePath": "staticwebassets\\icons\\x-octagon.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-square-fill.svg",
+      "PackagePath": "staticwebassets\\icons\\x-square-fill.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x-square.svg",
+      "PackagePath": "staticwebassets\\icons\\x-square.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\icons\\x.svg",
+      "PackagePath": "staticwebassets\\icons\\x.svg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee01.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee01.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee02.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee02.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee03.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee03.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee04.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee04.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee05.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee05.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee06.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee06.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\Employee07.jpg",
+      "PackagePath": "staticwebassets\\images\\Employee07.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\checkin-header-image.png",
+      "PackagePath": "staticwebassets\\images\\checkin-header-image.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\login-background.png",
+      "PackagePath": "staticwebassets\\images\\login-background.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\logo-home-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-home-white.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\logo-home.png",
+      "PackagePath": "staticwebassets\\images\\logo-home.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\logo-left-menu.png",
+      "PackagePath": "staticwebassets\\images\\logo-left-menu.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\logo-navbar.png",
+      "PackagePath": "staticwebassets\\images\\logo-navbar.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\rooms-card-red.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms-card-red.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\rooms-card.jpg",
+      "PackagePath": "staticwebassets\\images\\rooms-card.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\rooms-header-image.png",
+      "PackagePath": "staticwebassets\\images\\rooms-header-image.png"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\stock-nightstand.jpg",
+      "PackagePath": "staticwebassets\\images\\stock-nightstand.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\stock-pillows.jpg",
+      "PackagePath": "staticwebassets\\images\\stock-pillows.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\images\\stock-sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\stock-sunset.jpg"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\HotelManagement_Workspace\\HM_Project\\hotel-management-system\\oléHotels\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OleHotels.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OleHotels.props",
+      "PackagePath": "build\\OleHotels.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OleHotels.props",
+      "PackagePath": "buildMultiTargeting\\OleHotels.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OleHotels.props",
+      "PackagePath": "buildTransitive\\OleHotels.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
